@@ -7,6 +7,10 @@
 
 </p>
 
+<p align="center">
+[![Actions Status](https://github.com/8bithemant/thank-action/workflows/Github Action Contributor/badge.svg)](https://github.com/8bithemant/thank-action/actions)
+</p>
+
 
 
 
@@ -51,28 +55,4 @@ The final step of initialization is add the following code to
 
 
 
-
-## Thank You All For Great Help :tada:
-<table>
-<tr>
-                <td align="center">
-                    <a href="https://github.com/8bithemant">
-                        <img src="https://avatars0.githubusercontent.com/u/62112099?v=4" width="100;" alt="8bithemant"/>
-                        <br />
-                        <sub><b>Hemant Joshi</b></sub>
-                    </a>
-                </td></tr>
-</table>
-
-## Thank You All For Great Help :tada:
-<table>
-<tr>
-                <td align="center">
-                    <a href="https://github.com/8bithemant">
-                        <img src="https://avatars0.githubusercontent.com/u/62112099?v=4" width="100;" alt="8bithemant"/>
-                        <br />
-                        <sub><b>Hemant Joshi</b></sub>
-                    </a>
-                </td></tr>
-</table>
 
