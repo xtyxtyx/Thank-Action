@@ -19,6 +19,7 @@
  <h2 align="center">Thank You for being a open source contributor, we do appreciate your efforts for making Open Source Awesome.</h2>
 
 
+### Made With <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="40px" width="40px" /> and <img src="https://media.giphy.com/media/VInghBdi0Ym9XJghC0/giphy.gif" height="50px" width="50px"/>
 
 #### Initial Setup:
 
