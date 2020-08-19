@@ -21,6 +21,6 @@ runs:
   using: "node12"
   main: "index.js"
 branding:
-  icon: 'archive'  
-  color: 'black'
+  icon: 'heart'  
+  color: 'red'
 
