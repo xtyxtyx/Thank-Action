@@ -8,7 +8,9 @@
 </p>
 
 <p align="center">
-![Actions Status](https://github.com8bithemant/Thank-Action/workflows/Github%20Action%20Contributor/badge.svg)
+<a href="https://github.com/8bithemant/Thank-Action"> <img src="https://action-badges.now.sh/JasonEtco/action-badges" /> </a>
+<a href="https://github.com/8bithemant/Thank-Action"> <img src="https://badgen.now.sh/codecov/c/github/JasonEtco/action-badges" />
+ </a>
 </p>
 
 
