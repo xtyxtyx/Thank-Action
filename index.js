@@ -86,7 +86,7 @@ async function run(){
 
         contributors_content+="</table>\n"
         
-        const template =` ${header} :sparkles:\n${contributors_content}\n`;
+        const template =` ${header} :tada:\n${contributors_content}\n`;
 
         if(pos){
             preprocess_content[pos]=template
