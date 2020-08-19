@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-[![Actions Status](https://github.com/8bithemant/thank-action/workflows/Github Action Contributor/badge.svg)](https://github.com/8bithemant/thank-action/actions)
+![Actions Status](https://github.com8bithemant/Thank-Action/workflows/Github%20Action%20Contributor/badge.svg)
 </p>
 
 
