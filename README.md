@@ -1,3 +1,6 @@
+<h1 align="center">Automate Your README to Honour Contributors.</h1>
+
+
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/8bithemant/Thank-Action/master/heart.svg" alt="heart" height="300px" width="300px">
@@ -5,14 +8,10 @@
 </p>
 
 
-<p align="center">
 
 
-## Automate Your README to Honour Contributors.
+ <h2 align="center">Thank You for being a open source contributor, we do appreciate your efforts for making Open Source Awesome.</h2>
 
-### Thank You for being a open source contributor, we do appreciate your efforts for making Open Source Awesome.
-
-</p>
 
 
 #### Initial Setup:
