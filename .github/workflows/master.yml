@@ -3,7 +3,7 @@ on: [push, pull_request]
 jobs:
   contrib-readme-job:
     runs-on: ubuntu-latest
-    name: Target README.md
+    name: A job to automate contribute list in readme.md
     steps:
       - name: Github Action Contributor
         uses: 8bithemant/Thank-Action@v.01
