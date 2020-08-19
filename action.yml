@@ -16,7 +16,8 @@ inputs:
   header: # id of input
     description: "Header of the section"
     required: false
-    default: "Thank You All For Great Help"
+    default: "<br />
+    Thank You All For Great Help"
 runs:
   using: "node12"
   main: "index.js"
