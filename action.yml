@@ -17,7 +17,11 @@ inputs:
     description: "Header of the section"
     required: false
     default: "<br />
-    Thank You All For Great Help"
+    Thank You All Contributing and Making The Source Open :stars:.
+    
+  :tada: We did love to see more commits and raised issues by you all :tada:.
+   
+   :sparkles: To Contribute check the Contribute.md and start making your first PR and Commit's. :sparkles:"
 runs:
   using: "node12"
   main: "index.js"
